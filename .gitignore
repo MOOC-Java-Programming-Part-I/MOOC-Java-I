@@ -1,0 +1,9 @@
+*.class
+.DS_Store
+build/
+target/
+.tmc/
+lib/
+*.jar
+.idea/
+*.iml
